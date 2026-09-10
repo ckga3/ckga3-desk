@@ -1,2 +1,5 @@
-# ckga3-desk
-CKGA3 NQ desk for first-eval prop firm traders. Trading Institute of Technology.
+CKGA3 Desk — NQ live floor for Apex and Lucid first-eval traders.
+
+Public: index.html
+Live signup: live.html
+Desk: admin.html
